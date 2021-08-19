@@ -1,0 +1,13 @@
+C:\Users\Sandeep\Desktop\CSharp\DeleGatesDemo\DeleGatesDemo\bin\Debug\netcoreapp3.1\DeleGatesDemo.exe
+C:\Users\Sandeep\Desktop\CSharp\DeleGatesDemo\DeleGatesDemo\bin\Debug\netcoreapp3.1\DeleGatesDemo.deps.json
+C:\Users\Sandeep\Desktop\CSharp\DeleGatesDemo\DeleGatesDemo\bin\Debug\netcoreapp3.1\DeleGatesDemo.runtimeconfig.json
+C:\Users\Sandeep\Desktop\CSharp\DeleGatesDemo\DeleGatesDemo\bin\Debug\netcoreapp3.1\DeleGatesDemo.runtimeconfig.dev.json
+C:\Users\Sandeep\Desktop\CSharp\DeleGatesDemo\DeleGatesDemo\bin\Debug\netcoreapp3.1\DeleGatesDemo.dll
+C:\Users\Sandeep\Desktop\CSharp\DeleGatesDemo\DeleGatesDemo\bin\Debug\netcoreapp3.1\DeleGatesDemo.pdb
+C:\Users\Sandeep\Desktop\CSharp\DeleGatesDemo\DeleGatesDemo\obj\Debug\netcoreapp3.1\DeleGatesDemo.csproj.AssemblyReference.cache
+C:\Users\Sandeep\Desktop\CSharp\DeleGatesDemo\DeleGatesDemo\obj\Debug\netcoreapp3.1\DeleGatesDemo.AssemblyInfoInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\DeleGatesDemo\DeleGatesDemo\obj\Debug\netcoreapp3.1\DeleGatesDemo.AssemblyInfo.cs
+C:\Users\Sandeep\Desktop\CSharp\DeleGatesDemo\DeleGatesDemo\obj\Debug\netcoreapp3.1\DeleGatesDemo.csproj.CoreCompileInputs.cache
+C:\Users\Sandeep\Desktop\CSharp\DeleGatesDemo\DeleGatesDemo\obj\Debug\netcoreapp3.1\DeleGatesDemo.dll
+C:\Users\Sandeep\Desktop\CSharp\DeleGatesDemo\DeleGatesDemo\obj\Debug\netcoreapp3.1\DeleGatesDemo.pdb
+C:\Users\Sandeep\Desktop\CSharp\DeleGatesDemo\DeleGatesDemo\obj\Debug\netcoreapp3.1\DeleGatesDemo.genruntimeconfig.cache
